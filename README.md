@@ -1,0 +1,2 @@
+# autoclaim
+Just for mining
